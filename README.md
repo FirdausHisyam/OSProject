@@ -4,12 +4,12 @@ Group Name: __ThanOS__.
 
 Section: __4__. 
 
-<img src="./images/WhatsApp Image 2024-05-29 at 15.59.24_d93bf5fc.jpg" width="50%">
+<img src="./images/thanos.jpg" width="50%">
 
 Team Mates:
 1. __Muhammad Firdaus Bin Badrul Hisyam__ __2222041__
-2. __Fill name__ and __matric no__
-3. __Fill name__ and __matric no__
+2. __Abu Marwan Bin Abu Zakie__ and __2221579__
+3. __Muhammad Rafiqi Bin Mohd Razak__ and __2224155__
 
 ## Rules
 1. You are allowed to have **3 group** members. *Exception* is allowed **IFF (if and only if)** you are allowed to have 4 group members if you are a **multinational** or a **multigender** group. 
